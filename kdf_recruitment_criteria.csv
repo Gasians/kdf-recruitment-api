@@ -1,0 +1,8 @@
+Category,Min_Age,Max_Age,Min_Grade,Physical_Fitness,Min_Height_Men,Min_Height_Women,Min_Weight_Men,Min_Weight_Women
+GSO Cadets,18,26,B,Required,1.6,1.52,54.55,50.0
+GSO Cadets (Degree Holders),18,26,B,Required,1.6,1.52,54.55,50.0
+Specialist Officers,18,30,C+,Required,1.6,1.52,54.55,50.0
+General Duty Recruits,18,26,D,Required,1.6,1.52,54.55,50.0
+Tradesmen/Women (Diploma),18,30,C,Required,1.6,1.52,54.55,50.0
+Tradesmen/Women (Certificate),18,30,D+,Required,1.6,1.52,54.55,50.0
+Constables,30,55,N/A,Required,1.6,1.52,54.55,50.0

@@ -1,0 +1,6 @@
+name,age,education_level,physical_fitness_score,height,weight,experience_years,selected
+John Doe,23,B,85,1.65,55,2,1
+Jane Doe,25,C+,80,1.58,50,3,1
+Peter Kip,22,D,75,1.7,60,1,0
+Mary Wanjiku,27,B,90,1.6,52,4,1
+Ali Mohamed,24,C,78,1.55,54,2,0
