@@ -14,5 +14,9 @@ def predict():
     prediction = model.predict(X_new)[0]
     return jsonify({'selected': int(prediction)})
 
+import os
+
 if __name__ == '__main__':
-    app.run(debug=True, port=5001)
+    port = int(os.environ.get("PORT", 10000))  # Default to port 10000 for Render
+    app.run(host="0.0.0.0", port=port, debug=True)
+
